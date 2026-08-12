@@ -31,7 +31,7 @@ const TEAM = [
   {
     name: "Dr Efe Izzi",
     role: "Founder / Director",
-    photo: "/team/team-2.jpeg",
+    photo: "/team/izzi.jpeg",
     socials: { instagram: "https://www.instagram.com/drefeizzi/", twitter: "https://x.com/drefeizzi", linkedin: "https://www.linkedin.com/in/efe-izzi-5198b495/", facebook: "https://www.facebook.com/efe.izzi" },
     bio: [
       "Efe is a board certified dental practitioner with years of health, administrative and social care experience across various sectors. She graduated from Ternopil National Medical University, Ukraine in 2016 with honors, and has received multiple clinical and academic awards for her achievements in the field.",
@@ -45,7 +45,7 @@ const TEAM = [
     photo: "/team/team-1.jpeg",
     socials: { instagram: "#", twitter: "#", linkedin: "#", facebook: "#" },
     bio: [
-      "Dr. Mabel is the Dean of Faculty of Law at the Rivers State University of Science and Technology. She is renowned for her academic contributions to the field of Gender law.",
+      "Dr. Mabel is a Professor of Law at the Rivers State University. She is renowned for her academic contributions to the field of Gender law.",
       "Following in her matriarch's footsteps, Dr. Mabel sought to improve the situation of the girl child in Nigeria. Her approach was to make an impact on the societal as well as legal structures that affect the prospering of the girl child. She has made many scholastic publications on the subject and has proposed several structural reforms to lawmakers that would aid the changes she desires to achieve.",
       "Dr. Mabel currently functions as a director in the BettyMay Foundation, where she utilizes her skills and wealth of experience for the furtherance of its central objectives.",
     ],
