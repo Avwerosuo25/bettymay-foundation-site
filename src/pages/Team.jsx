@@ -31,7 +31,7 @@ const TEAM = [
   {
     name: "Dr Efe Izzi",
     role: "Founder / Director",
-    photo: "/team/izzi.jpeg",
+    photo: "/team/Izzi.jpeg",
     socials: { instagram: "https://www.instagram.com/drefeizzi/", twitter: "https://x.com/drefeizzi", linkedin: "https://www.linkedin.com/in/efe-izzi-5198b495/", facebook: "https://www.facebook.com/efe.izzi" },
     bio: [
       "Efe is a board certified dental practitioner with years of health, administrative and social care experience across various sectors. She graduated from Ternopil National Medical University, Ukraine in 2016 with honors, and has received multiple clinical and academic awards for her achievements in the field.",
