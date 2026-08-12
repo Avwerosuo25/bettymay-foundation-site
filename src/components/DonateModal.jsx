@@ -29,7 +29,7 @@ const BANK_ACCOUNTS = [
 // accounts are set up (e.g. a Paystack Payment Page or Flutterwave Store
 // link). These currently point to each provider's homepage as a safe
 // placeholder so the button never 404s.
-// const PAYSTACK_URL = "https://paystack.com/pay/bettymay-foundation";
+const PAYSTACK_URL = "https://paystack.com/pay/bettymay-foundation";
 const FLUTTERWAVE_URL = "https://flutterwave.com/pay/w7qlyqmljgi8?_gl=1%2a1etlxxe%2a_ga%2aMTUyNDgwODk5NC4xNjgxNzQ2NTQ5%2a_ga_KQ9NSEMFCF%2aMTY4MjM2NTI1Mi40LjEuMTY4MjM2NTcxMi41OS4wLjA"
 
 function PlainField({ label, value, noBorder = false }) {
